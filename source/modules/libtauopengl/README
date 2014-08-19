@@ -1,0 +1,6 @@
+required libraries:
+
+    libtaucore
+
+    X11:
+    	-lX11 -lGL -lGLU
